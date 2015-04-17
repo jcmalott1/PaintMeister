@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\pre-dexed\debug\classes-3d22fa4ca202bad9350bcdf4ac6113314ed7600c.jar" />
+    </item>
+    <item
+        jar="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\pre-dexed\debug\classes-6041dd12ad7ec99a1cf742312a236893d7ac0d17.jar" />
+    </item>
+    <item
+        jar="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\pre-dexed\debug\classes-998d78b0afcc7d979edb6f195da0452e9ff558fe.jar" />
+    </item>
+    <item
+        jar="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\pre-dexed\debug\classes-8ab144ac1bcf26522761dcaba354672ed39eebdd.jar" />
+    </item>
+    <item
+        jar="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\pre-dexed\debug\classes-5ec256f29cf2f109d93109b612867481075821ea.jar" />
+    </item>
+    <item
+        jar="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\pre-dexed\debug\classes-37a3145c78eeefdf9046ad83474efdf7bf495b45.jar" />
+    </item>
+    <item
+        jar="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\pre-dexed\debug\classes-8ec0f3f2e3cd36efe780d831c505280f3b1204fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\pre-dexed\debug\classes-e573f0bb4be22236381a97eef41bb5b75dd7dc35.jar" />
+    </item>
+    <item
+        jar="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\pre-dexed\debug\classes-b553c818c9f74d5eee0976dcf2adb738e7ff609c.jar" />
+    </item>
+    <item
+        jar="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\pre-dexed\debug\classes-e71c667332831c4978d6b215714ca0f32b5af78d.jar" />
+    </item>
+    <item
+        jar="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\pre-dexed\debug\classes-cb0db9cf9868d86b539fec123049e98db071d4b5.jar" />
+    </item>
+    <item
+        jar="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\pre-dexed\debug\classes-44a845e885136ae505539c4475728f1c012e548d.jar" />
+    </item>
+    <item
+        jar="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\pre-dexed\debug\classes-14ea9b254637994a4be74a51e0467dc798e54763.jar" />
+    </item>
+    <item
+        jar="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\pre-dexed\debug\classes-09c4bf6b90a4c8343afd7498b40a4ad5aa729f44.jar" />
+    </item>
+    <item
+        jar="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\pre-dexed\debug\classes-21d179dd7b8b752dcef6f6b8be27375b0361d02e.jar" />
+    </item>
+    <item
+        jar="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\pre-dexed\debug\classes-7d4cd52056de297b8277ce2c4e0bbd314be103ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\pre-dexed\debug\classes-570a0b9909524239cf0b3d8ca543e0c26fb10af1.jar" />
+    </item>
+    <item
+        jar="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\pre-dexed\debug\classes-98ac655bf1cee28b68eebe0f2e22b95508ab6da5.jar" />
+    </item>
+    <item
+        jar="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\pre-dexed\debug\classes-7adbafbac4e3de922fc179a39c2d417dbd9a0fd1.jar" />
+    </item>
+    <item
+        jar="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\pre-dexed\debug\classes-86a8cc2f3db5433f9dd2b514d59a76f6e432fa4c.jar" />
+    </item>
+    <item
+        jar="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\pre-dexed\debug\classes-b2401ddcfcaa50e1eeec032fe8da5f2c5d02f67e.jar" />
+    </item>
+    <item
+        jar="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\pre-dexed\debug\classes-2565c3ce41b7930502d5c6f7416424c7e6beeb77.jar" />
+    </item>
+    <item
+        jar="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-e7e0f9db8418030f112aff60e4b7d3caac4b35b4.jar" />
+    </item>
+    <item
+        jar="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\pre-dexed\debug\classes-dd595181f4fa037dc654596078266e5e54f47f19.jar" />
+    </item>
+    <item
+        jar="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\pre-dexed\debug\classes-9e14917fe223136f3fd3a046cc5a9f5179c92336.jar" />
+    </item>
+    <item
+        jar="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\pre-dexed\debug\classes-ba631cc6b56b1ea72ad6a7f47686594237d4306b.jar" />
+    </item>
+    <item
+        jar="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\pre-dexed\debug\classes-9a224e0f69b9706a8ed11d7f4db739a7312d8eeb.jar" />
+    </item>
+    <item
+        jar="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\pre-dexed\debug\classes-91431c80b7f2d9010ec77d7bce8358e10749c8c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\pre-dexed\debug\classes-1e96fb287d71f83078bc29e5af7a53d6c283b1c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\pre-dexed\debug\classes-23aade4f683210fd1b3c10603eae341eaed64a74.jar" />
+    </item>
+    <item
+        jar="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\pre-dexed\debug\classes-deb9bbe3184e655886ff2e4f220d08e1eccd3d25.jar" />
+    </item>
+    <item
+        jar="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\pre-dexed\debug\classes-7b80c0eba750a7039f31d4f1def515798840a3f1.jar" />
+    </item>
+    <item
+        jar="E:\JC_Computer\Teachers_Pet\software\JC\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-469c9351cfd2fd38cbc3d294b2ea2dbc982d42f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\pre-dexed\debug\classes-0e763eedb044abac89cfcfa471cfdaf1d9f10082.jar" />
+    </item>
+    <item
+        jar="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\pre-dexed\debug\classes-b4677def976df40351a859a0740e130c624afc57.jar" />
+    </item>
+    <item
+        jar="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\pre-dexed\debug\classes-6ca7722b8e9dff1eba2e6a62714b3021c0524cdd.jar" />
+    </item>
+    <item
+        jar="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\pre-dexed\debug\classes-fcec817ea174e437f6f6f73507b492ccc306348b.jar" />
+    </item>
+    <item
+        jar="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\pre-dexed\debug\classes-7ae3a22ff692b140f2c86528a852aaf2cbeda210.jar" />
+    </item>
+    <item
+        jar="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\pre-dexed\debug\classes-693fd4ae1a4eb23e494e9a05b002cb5ecf0ba47a.jar" />
+    </item>
+    <item
+        jar="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\pre-dexed\debug\classes-a0243b9461834ceed5bcc42a128c90822f14b8dc.jar" />
+    </item>
+    <item
+        jar="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\pre-dexed\debug\classes-f06cfe41846d6405e1114755328fa1027eb5bb51.jar" />
+    </item>
+    <item
+        jar="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\LibUser\Desktop\PaintMeister\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-2c52c3b367422ba23df20fc1fb47d5d6e329f4b4.jar" />
+    </item>
+    <item
+        jar="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\pre-dexed\debug\classes-d38714a31f03f1077fea2432f8a628f3ee496282.jar" />
+    </item>
+    <item
+        jar="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\pre-dexed\debug\classes-1453eb45971ca0609b56a49f6ad7d800f7586e12.jar" />
+    </item>
+    <item
+        jar="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="E:\JC_Computer\HomeWork\Android\Paint_Master\Apps\TabDemo2\TabDemo2\app\build\intermediates\pre-dexed\debug\classes-70bcc349de1e2b92625537d3a309b2313322ebed.jar" />
+    </item>
+
+</items>

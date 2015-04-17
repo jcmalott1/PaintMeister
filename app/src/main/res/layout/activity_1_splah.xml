@@ -1,0 +1,10 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/BasicLayout"
+    tools:context="com.example.teacherspet.view.SplashScreenActivity">
+
+    <ImageView
+        style="@style/BasicLayout"
+        android:background="@drawable/ic_launcher" />
+
+</RelativeLayout>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PaintMeister</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_buttons">ButtonsActivity</string>
+    <string name="picture1_title">Silly Picture</string>
+    <!-- Tab 1 -->
+    <string name="b1">1</string>
+    <string name="b2">2</string>
+    <string name="b3">3</string>
+    <string name="b4">4</string>
+    <string name="b5">5</string>
+    <string name="b6">6</string>
+    <string name="b7">7</string>
+    <string name="b8">8</string>
+    <string name="b9">9</string>
+    <string name="b0">0</string>
+    <string name="bAdd">+</string>
+    <string name="bMinus">-</string>
+    <string name="bMult">x</string>
+    <string name="bDiv">/</string>
+    <string name="bMod">%</string>
+    <string name="bEq">=</string>
+    <string name="title_activity_place_list">PlaceList</string>
+    <string name="title_activity_map">Map</string>
+    
+    <string name="cam_screen_take_photo">Take Photo</string>
+    <string name="cam_screen_title">Take Photo</string>
+    <string name="cam_button_save">Save</string>
+    <string name="title_activity_custom_view">CustomView</string>
+    <string name="title_activity_splah">SplahActivity</string>
+
+    <string-array name="colors">
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Magenta</item>
+        <item>Green</item>
+        <item>Cyan</item>
+        <item>Yellow</item>
+        <item>Dark Grey</item>
+    </string-array>
+
+    <string-array name="width">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+    
+</resources>

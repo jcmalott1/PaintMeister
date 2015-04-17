@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lt_grey"
+    android:orientation="vertical"
+    android:weightSum="10"
+    tools:context="wcu.edu.paintmeister.PaintActivity" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill_horizontal"
+        android:layout_weight="1" />
+
+    <view
+        class="edu.wcu.PaintMeister.CustomView"
+        android:id="@+id/view1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_weight="9"
+        android:background="@color/white" />
+
+</LinearLayout>
+<!-- From: file:/C:/Users/LibUser/Desktop/PaintMeister/app/src/main/res/layout/activity_2paint.xml -->
